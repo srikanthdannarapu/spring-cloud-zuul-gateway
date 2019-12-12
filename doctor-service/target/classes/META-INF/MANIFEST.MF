@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: doctor-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sreekanth
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/doctor-service
+Created-By: Maven Integration for Eclipse
+
