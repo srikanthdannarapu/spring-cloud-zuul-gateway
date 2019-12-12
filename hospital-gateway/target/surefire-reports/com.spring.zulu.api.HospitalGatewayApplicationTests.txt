@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.spring.zulu.api.HospitalGatewayApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.781 s - in com.spring.zulu.api.HospitalGatewayApplicationTests

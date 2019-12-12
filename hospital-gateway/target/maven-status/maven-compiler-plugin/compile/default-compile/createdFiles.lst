@@ -1,5 +1,0 @@
-com\spring\zulu\api\filter\RouteFilter.class
-com\spring\zulu\api\filter\ErrorFilter.class
-com\spring\zulu\api\filter\PostFilter.class
-com\spring\zulu\api\filter\PreFilter.class
-com\spring\zulu\api\HospitalGatewayApplication.class
